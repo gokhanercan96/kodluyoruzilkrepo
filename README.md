@@ -11,7 +11,7 @@ https://github.com/gokhanercan96/kodluyoruzilkrepo.git
 ## Usage
 
 ```
-çalıştır: cmd
+run: cmd
 D:
 cd documents
 cd kodluyoruzilkrepo
