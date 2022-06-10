@@ -4,19 +4,19 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Installation 
 
-`https://github.com/gokhanercan96/kodluyoruzilkrepo.git`
+```
+https://github.com/gokhanercan96/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
-`çalıştır: cmd `
-
-`D: `
-
-`cd documents `
-
-`cd kodluyoruzilkrepo `
-
-`code .`
+```
+çalıştır: cmd
+D:
+cd documents
+cd kodluyoruzilkrepo
+code .
+```
 
 
 
