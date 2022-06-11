@@ -26,7 +26,19 @@ code .
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Proje: Kodluyoruz İlk Repo](C:\Users\gökhan\Desktop\project.jpg)
+![Proje: Kodluyoruz İlk Repo](https://i.hizliresim.com/rrj7h4n.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
